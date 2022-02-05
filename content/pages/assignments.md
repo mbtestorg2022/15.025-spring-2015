@@ -7,10 +7,39 @@ uid: 627f0d6f-db4d-94fa-6d49-2b8471a45241
 Problem Sets
 ------------
 
-| PROBLEM SETS | SOLUTIONS |
-| --- | --- |
-| [Problem Set 1: Location Game; Penalty Shots; Splitting the Dollar (PDF)]({{< baseurl >}}/resources/mit15_025s15_problemset1) | [Problem Set 1 Solutions: Location Game; Penalty Shots; Splitting the Dollar Solution (PDF)]({{< baseurl >}}/resources/mit15_025s15_problem1sol) |
-| [Problem Set 2: Preemptive Investment; Audition Game (PDF)]({{< baseurl >}}/resources/mit15_025s15_problemset2) | [Problem Set 2 Solutions: Preemptive Investment; Audition Game (PDF)]({{< baseurl >}}/resources/mit15_025s15_problem2sol) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SETS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 1: Location Game; Penalty Shots; Splitting the Dollar (PDF)]({{< baseurl >}}/resources/mit15_025s15_problemset1)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 1 Solutions: Location Game; Penalty Shots; Splitting the Dollar Solution (PDF)]({{< baseurl >}}/resources/mit15_025s15_problem1sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 2: Preemptive Investment; Audition Game (PDF)]({{< baseurl >}}/resources/mit15_025s15_problemset2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 2 Solutions: Preemptive Investment; Audition Game (PDF)]({{< baseurl >}}/resources/mit15_025s15_problem2sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Team Project
 ------------
